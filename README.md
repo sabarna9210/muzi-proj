@@ -34,19 +34,19 @@ npm run dev
 
 Here is a screenshot:
 
-![Main application UI](src/Screenshot (232).png)
+![Main application UI](src/Screenshot(232).png)
 
 Another screenshot:
 
-![Creating Spaces](src/Screenshot (233).png)
+![Creating Spaces](src/Screenshot(233).png)
 
 Another screenshot:
 
-![Spaces](src/Screenshot (234).png)
+![Spaces](src/Screenshot(234).png)
 
 Another screenshot:
 
-![Adding Songs](src/Screenshot 2025-04-08 190109.png)
+![Adding Songs](src/Screenshot2025-04-08190109.png)
 🧪 Upcoming Features
 🔍 Search & filters
 
